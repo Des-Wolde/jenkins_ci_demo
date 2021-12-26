@@ -35,12 +35,12 @@
 	<username>Sfekadu</username>
 	<password>Sarem@654460</password>
 	<environment>Sandbox</environment>
-	<!--<region>us-e2</region> -->
+	<!--<region>us-east-2</region> -->
 	<objectStoreV2>true</objectStoreV2>
 	<workerType>Micro</workerType>
 	<workers>1</workers>
 	<uri>https://anypoint.mulesoft.com</uri>;
-	<applicationName>test_jenkins_app</applicationName>   
+	<applicationName>test_jenkins</applicationName>   
 </cloudHubDeployment>
 </configuration>
 			</plugin>
