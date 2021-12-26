@@ -40,7 +40,7 @@
 	<workerType>Micro</workerType>
 	<workers>1</workers>
 	<uri>https://anypoint.mulesoft.com</uri>;
-	<applicationName>test_jenkins_app</applicationName>   
+	<applicationName>test-jenkins-app</applicationName>   
 </cloudHubDeployment>
 </configuration>
 			</plugin>
