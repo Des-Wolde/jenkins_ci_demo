@@ -39,7 +39,7 @@
 	<objectStoreV2>true</objectStoreV2>
 	<workerType>Micro</workerType>
 	<workers>1</workers>
-	<url>https://anypoint.mulesoft.com</url>;
+	<uri>https://anypoint.mulesoft.com</uri>;
 	<applicationName>test_jenkins_app</applicationName>   
 </cloudHubDeployment>
 </configuration>
