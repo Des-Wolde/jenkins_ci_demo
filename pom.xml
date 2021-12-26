@@ -31,7 +31,7 @@
 				<extensions>true</extensions>
 				<configuration>
 <cloudHubDeployment>
-	<muleVersion>${app.runtime}</muleVersion>
+	<muleVersion>4.3.0</muleVersion>
 	<username>Sfekadu</username>
 	<password>Sarem@654460</password>
 	<environment>Sandbox</environment>
@@ -39,8 +39,8 @@
 	<objectStoreV2>true</objectStoreV2>
 	<workerType>Micro</workerType>
 	<workers>1</workers>
-	<uri>https://anypoint.mulesoft.com</uri>;
-	<applicationName>test_jenkins</applicationName>   
+	<url>https://anypoint.mulesoft.com</url>;
+	<applicationName>test_jenkins_app</applicationName>   
 </cloudHubDeployment>
 </configuration>
 			</plugin>
